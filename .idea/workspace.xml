@@ -1,51 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f7aac103-5c98-4215-98a9-f273bce8cf50" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/selectedCourseSystem/js/jquery-2.2.3.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/selectedCourseSystem/plugins/jquery-2.2.3.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selectedCourseSystem/js/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/selectedCourseSystem/js/login.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selectedCourseSystem/js/manager.js" beforeDir="false" afterPath="$PROJECT_DIR$/selectedCourseSystem/js/manager.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selectedCourseSystem/js/student.js" beforeDir="false" afterPath="$PROJECT_DIR$/selectedCourseSystem/js/student.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selectedCourseSystem/js/teacher.js" beforeDir="false" afterPath="$PROJECT_DIR$/selectedCourseSystem/js/teacher.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selectedCourseSystem/pages/iframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/selectedCourseSystem/pages/iframe.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selectedCourseSystem/pages/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/selectedCourseSystem/pages/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selectedCourseSystem/pages/managerPage/changeInfo.html" beforeDir="false" afterPath="$PROJECT_DIR$/selectedCourseSystem/pages/managerPage/changeInfo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selectedCourseSystem/pages/managerPage/changeManagerInfo.html" beforeDir="false" afterPath="$PROJECT_DIR$/selectedCourseSystem/pages/managerPage/changeManagerInfo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selectedCourseSystem/pages/managerPage/changeSuperManagerInfo.html" beforeDir="false" afterPath="$PROJECT_DIR$/selectedCourseSystem/pages/managerPage/changeSuperManagerInfo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selectedCourseSystem/pages/managerPage/collegeRollForm.html" beforeDir="false" afterPath="$PROJECT_DIR$/selectedCourseSystem/pages/managerPage/collegeRollForm.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selectedCourseSystem/pages/managerPage/collegeRollList.html" beforeDir="false" afterPath="$PROJECT_DIR$/selectedCourseSystem/pages/managerPage/collegeRollList.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selectedCourseSystem/pages/managerPage/manager.html" beforeDir="false" afterPath="$PROJECT_DIR$/selectedCourseSystem/pages/managerPage/manager.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selectedCourseSystem/pages/managerPage/managerRollForm.html" beforeDir="false" afterPath="$PROJECT_DIR$/selectedCourseSystem/pages/managerPage/managerRollForm.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selectedCourseSystem/pages/managerPage/managerRollList.html" beforeDir="false" afterPath="$PROJECT_DIR$/selectedCourseSystem/pages/managerPage/managerRollList.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selectedCourseSystem/pages/managerPage/manager_info.html" beforeDir="false" afterPath="$PROJECT_DIR$/selectedCourseSystem/pages/managerPage/manager_info.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selectedCourseSystem/pages/managerPage/teacherRollForm.html" beforeDir="false" afterPath="$PROJECT_DIR$/selectedCourseSystem/pages/managerPage/teacherRollForm.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selectedCourseSystem/pages/managerPage/teacherRollList.html" beforeDir="false" afterPath="$PROJECT_DIR$/selectedCourseSystem/pages/managerPage/teacherRollList.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selectedCourseSystem/pages/modifyPasswordRollForm.html" beforeDir="false" afterPath="$PROJECT_DIR$/selectedCourseSystem/pages/modifyPasswordRollForm.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selectedCourseSystem/pages/studentPage/changeInfo.html" beforeDir="false" afterPath="$PROJECT_DIR$/selectedCourseSystem/pages/studentPage/changeInfo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selectedCourseSystem/pages/studentPage/checkedCourseRollList.html" beforeDir="false" afterPath="$PROJECT_DIR$/selectedCourseSystem/pages/studentPage/checkedCourseRollList.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selectedCourseSystem/pages/studentPage/selectedCourseRollList.html" beforeDir="false" afterPath="$PROJECT_DIR$/selectedCourseSystem/pages/studentPage/selectedCourseRollList.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selectedCourseSystem/pages/studentPage/student.html" beforeDir="false" afterPath="$PROJECT_DIR$/selectedCourseSystem/pages/studentPage/student.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selectedCourseSystem/pages/teacherPage/addStudentCourseRollForm.html" beforeDir="false" afterPath="$PROJECT_DIR$/selectedCourseSystem/pages/teacherPage/addStudentCourseRollForm.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selectedCourseSystem/pages/teacherPage/addStudentRollForm.html" beforeDir="false" afterPath="$PROJECT_DIR$/selectedCourseSystem/pages/teacherPage/addStudentRollForm.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selectedCourseSystem/pages/teacherPage/changeAllCourseInfo.html" beforeDir="false" afterPath="$PROJECT_DIR$/selectedCourseSystem/pages/teacherPage/changeAllCourseInfo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selectedCourseSystem/pages/teacherPage/changeChoiceInfo.html" beforeDir="false" afterPath="$PROJECT_DIR$/selectedCourseSystem/pages/teacherPage/changeChoiceInfo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selectedCourseSystem/pages/teacherPage/changeInfo.html" beforeDir="false" afterPath="$PROJECT_DIR$/selectedCourseSystem/pages/teacherPage/changeInfo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selectedCourseSystem/pages/teacherPage/changeSelectedCourseInfo.html" beforeDir="false" afterPath="$PROJECT_DIR$/selectedCourseSystem/pages/teacherPage/changeSelectedCourseInfo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selectedCourseSystem/pages/teacherPage/changeStudentInfo.html" beforeDir="false" afterPath="$PROJECT_DIR$/selectedCourseSystem/pages/teacherPage/changeStudentInfo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selectedCourseSystem/pages/teacherPage/changeTimeInfo.html" beforeDir="false" afterPath="$PROJECT_DIR$/selectedCourseSystem/pages/teacherPage/changeTimeInfo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selectedCourseSystem/pages/teacherPage/choiceRollForm.html" beforeDir="false" afterPath="$PROJECT_DIR$/selectedCourseSystem/pages/teacherPage/choiceRollForm.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selectedCourseSystem/pages/teacherPage/courseRollForm.html" beforeDir="false" afterPath="$PROJECT_DIR$/selectedCourseSystem/pages/teacherPage/courseRollForm.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selectedCourseSystem/pages/teacherPage/courseRollList.html" beforeDir="false" afterPath="$PROJECT_DIR$/selectedCourseSystem/pages/teacherPage/courseRollList.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selectedCourseSystem/pages/teacherPage/manager_info.html" beforeDir="false" afterPath="$PROJECT_DIR$/selectedCourseSystem/pages/teacherPage/manager_info.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selectedCourseSystem/pages/teacherPage/selectedCourseRollList.html" beforeDir="false" afterPath="$PROJECT_DIR$/selectedCourseSystem/pages/teacherPage/selectedCourseRollList.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selectedCourseSystem/pages/teacherPage/studentChoiceRollList.html" beforeDir="false" afterPath="$PROJECT_DIR$/selectedCourseSystem/pages/teacherPage/studentChoiceRollList.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selectedCourseSystem/pages/teacherPage/studentCourseRollList.html" beforeDir="false" afterPath="$PROJECT_DIR$/selectedCourseSystem/pages/teacherPage/studentCourseRollList.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selectedCourseSystem/pages/teacherPage/studentRollList.html" beforeDir="false" afterPath="$PROJECT_DIR$/selectedCourseSystem/pages/teacherPage/studentRollList.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selectedCourseSystem/pages/teacherPage/teacher.html" beforeDir="false" afterPath="$PROJECT_DIR$/selectedCourseSystem/pages/teacherPage/teacher.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selectedCourseSystem/pages/teacherPage/teacher_info.html" beforeDir="false" afterPath="$PROJECT_DIR$/selectedCourseSystem/pages/teacherPage/teacher_info.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selectedCourseSystem/pages/teacherPage/timeRollForm.html" beforeDir="false" afterPath="$PROJECT_DIR$/selectedCourseSystem/pages/teacherPage/timeRollForm.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selectedCourseSystem/pages/teacherPage/timeRollList.html" beforeDir="false" afterPath="$PROJECT_DIR$/selectedCourseSystem/pages/teacherPage/timeRollList.html" afterDir="false" />
-    </list>
+    <list default="true" id="8d52b4be-9739-484f-9de6-98c12af2e993" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -56,18 +12,76 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="746867722">
+    <session id="991843112">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1985948260">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="3" />
         </counts>
       </usages-collector>
     </session>
   </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pages/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/login.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="494">
+              <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/selectedCourseSystem" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pages/teacherPage/manager_info.html" />
+        <option value="$PROJECT_DIR$/js/student.js" />
+        <option value="$PROJECT_DIR$/pages/teacherPage/teacher_info.html" />
+        <option value="$PROJECT_DIR$/pages/managerPage/manager_info.html" />
+        <option value="$PROJECT_DIR$/js/teacher.js" />
+        <option value="$PROJECT_DIR$/js/login.js" />
+        <option value="$PROJECT_DIR$/js/manager.js" />
+        <option value="$PROJECT_DIR$/pages/login.html" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -87,15 +101,32 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="selectedCourseSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="selectedCourseSystem" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/selectedCourseSystem" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\study\selectedCourseSystem\plugins" />
+      <recent name="D:\study\selectedCourseSystem\js" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -109,33 +140,53 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="JavaScript Debug.login.html">
+    <configuration name="login.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:13637/selectedCourseSystem/pages/login.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="login.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="login.js" working-dir="$PROJECT_DIR$/js">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.login.js" />
+      <item itemvalue="JavaScript Debug.login.html" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.login.html" />
+        <item itemvalue="Node.js.login.js" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f7aac103-5c98-4215-98a9-f273bce8cf50" name="Default Changelist" comment="" />
-      <created>1541647401127</created>
+      <changelist id="8d52b4be-9739-484f-9de6-98c12af2e993" name="Default" comment="" />
+      <created>1540818501322</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1541647401127</updated>
-      <workItem from="1541647402707" duration="40000" />
+      <updated>1540818501322</updated>
+      <workItem from="1540818503073" duration="3310000" />
+      <workItem from="1540896572220" duration="5979000" />
+      <workItem from="1541209735848" duration="1277000" />
+      <workItem from="1541328340110" duration="1274000" />
+      <workItem from="1541644159819" duration="2519000" />
+      <workItem from="1541647445288" duration="2415000" />
+      <workItem from="1541677694453" duration="2277000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40000" />
+    <option name="totallyTimeSpent" value="19051000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24925596" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.3295082" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -143,6 +194,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.33934426" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -153,5 +208,84 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pages/managerPage/managerRollForm.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="32" column="92" selection-start-line="32" selection-start-column="76" selection-end-line="32" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/teacherPage/manager_info.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="37" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/teacherPage/teacher.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="37" column="111" selection-start-line="37" selection-start-column="111" selection-end-line="37" selection-end-column="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/teacherPage/teacher_info.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="37" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/managerPage/manager.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="36" column="71" selection-start-line="36" selection-start-column="71" selection-end-line="36" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/managerPage/manager_info.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="18" column="91" lean-forward="true" selection-start-line="18" selection-start-column="91" selection-end-line="18" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/student.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="113" lean-forward="true" selection-start-line="113" selection-end-line="113" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/teacher.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1653">
+          <caret line="503" column="23" selection-start-line="503" selection-start-column="23" selection-end-line="503" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/manager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="190" column="45" selection-start-line="190" selection-start-column="45" selection-end-line="190" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
