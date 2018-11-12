@@ -4,7 +4,7 @@
 }
 body{
     background: #ccc url(../images/background.jpg) no-repeat left top;
-    background-size: 100%;
+    background-size: 110%;
 }
 #school_logo{
     width: 100%;
@@ -12,7 +12,7 @@ body{
     position: relative;
 }
 #logo_img{
-    width: 450px;
+    width: 30%;
     height: 60px;
     position: absolute;
     top: 50%;
